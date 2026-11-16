@@ -1,0 +1,5 @@
+[
+  {"id":"F01","name":"Conventional Factory","units_produced":1000,"energy_kwh":50000,"source_type":"synthetic"},
+  {"id":"F02","name":"Efficient Factory","units_produced":1000,"energy_kwh":40000,"source_type":"synthetic"},
+  {"id":"F03","name":"Optimized Factory","units_produced":1000,"energy_kwh":32000,"source_type":"synthetic"}
+]
